@@ -1,0 +1,45 @@
+body{
+    width: auto;
+    height: auto;
+}
+
+header{
+width: auto;
+height: 50px;
+background-color: #0090e3;
+
+}
+
+#logopng{
+    width: auto;
+    height: 50px;
+    margin-left: 15px;
+}
+
+.wrapper{
+    width: auto;
+    height: 500px;
+    display: flex;
+}
+
+.box1{
+    width: 50%;
+    height: 500px;
+    background-color: #0090e3;
+    color: white;
+}
+
+.box2{
+    width: 50%;
+    height: 500px;
+    background-color: #0090e3;
+    color: white;
+}
+
+.h2wit{
+    margin-left: 100px;
+}
+
+footer{
+
+}
